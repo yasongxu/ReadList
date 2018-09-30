@@ -13,7 +13,7 @@ authors: yasongxu
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 7#5a3a6e73b67795e75e3951c8ec209f3e619690
+token: d#98a001bdcf17f39b3200857d26f0ae07b04c234
 
 # posts per page
 perpage: 15
